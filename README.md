@@ -87,7 +87,11 @@
 
 <!-- (동적) WakaTime 자동 갱신 자리에 삽입될 마커 -->
 <!--START_SECTION:waka-->
-*WakaTime summary will appear here…*
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ---
