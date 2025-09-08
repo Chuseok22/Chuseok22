@@ -106,9 +106,9 @@
 ![svg](./profile-3d-contrib/profile-green-animate.svg)
 
 
-| <a href="https://github.com/Chuseok22/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Chuseok22&show_icons=true&count_private=true&include_all_commits=true" alt="Chuseok22's github stats" /></a> | <a href="https://github.com/Chuseok22/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chuseok22&layout=compact&theme=buefy&hide_border=true" /></a> |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="https://streak-stats.demolab.com?user=Chuseok22" /> | <img src="https://github-profile-trophy.vercel.app/?username=Chuseok22&rank=-B,-C&column=3&margin-w=5&margin-h=5" />                                                                                             |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chuseok22&show_icons=true&count_private=true&include_all_commits=true" alt="Chuseok22's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chuseok22&layout=compact&theme=buefy&hide_border=true" /> |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://streak-stats.demolab.com?user=Chuseok22" /> | <img src="https://github-profile-trophy.vercel.app/?username=Chuseok22&rank=-B,-C&column=3&margin-w=5&margin-h=5" />                                                                                         |
 
 <!-- 커밋 스트릭 -->
 
