@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
   schedule:
     # 6시간마다 업데이트
-    - cron: "0 */6 * * *"
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme:
@@ -23,7 +23,7 @@ jobs:
           # 기본 정보 표시
           SHOW_SHORT_INFO: "True"
           SHOW_LINES_OF_CODE: "True"
-          SHOW_PROFILE_VIEWS: "True"
+          SHOW_PROFILE_VIEWS: "False"
 
           # 차트 및 그래프
           SHOW_LOC_CHART: "False"
