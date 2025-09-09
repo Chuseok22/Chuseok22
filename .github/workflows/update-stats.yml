@@ -14,12 +14,11 @@ jobs:
     name: README.md 업데이트
     runs-on: ubuntu-latest
     steps:
-
       - name: waka-stats
         uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets._GITHUB_PAT_TOKEN }}
 
           # 기본 정보 표시
           SHOW_SHORT_INFO: "True"
