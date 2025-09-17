@@ -83,6 +83,53 @@
 
 ---
 
+## 🚀 Utility Projects
+
+<!-- 카드형 핀 (정적 이미지 카드) -->
+<table>
+  <thead align="center">
+    <tr>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Description</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Chuseok22/github-issue-helper"><b>GitHub Issue Helper</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Chuseok22/github-issue-helper?style=flat-square&labelColor=343b41"/></td>
+      <td>GitHub 브랜치명 & 커밋 메시지 자동 생성기</td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/Chuseok22/chuseok22-github-template"><b>GitHub Template</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Chuseok22/chuseok22-github-template?style=flat-square&labelColor=343b41"/></td>
+      <td>GitHub 프로젝트 템플릿</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Chuseok22/sejong-portal-login"><b>Sejong Uni. Login</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Chuseok22/sejong-portal-login?style=flat-square&labelColor=343b41"/></td>
+      <td>세종대학교 포탈 로그인</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Chuseok22/api-change-log"><b>Swagger Api Change Log</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Chuseok22/api-change-log?style=flat-square&labelColor=343b41"/></td>
+      <td>Swagger UI API 변경 이력 관리</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Chuseok22/pdf-extractor"><b>PDF Extractor</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Chuseok22/pdf-extractor?style=flat-square&labelColor=343b41"/></td>
+      <td>PDF 내부 데이터를 추출하여 Excel로 저장하는 애플리케이션</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Chuseok22/excel-parser"><b>Excel Parser</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Chuseok22/excel-parser?style=flat-square&labelColor=343b41"/></td>
+      <td>Excel 내부 데이터를 분류 후 별도의 엑셀 파일로 추출하는 애플리케이션</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
 ## ⌨️ Coding Status
 
 <!-- (동적) WakaTime 자동 갱신 자리에 삽입될 마커 -->
