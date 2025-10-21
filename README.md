@@ -80,6 +80,7 @@
       <td><img alt="Commits" src="https://img.shields.io/github/last-commit/TEAM-ROMROM/RomRom-BE?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/TEAM-ROMROM/RomRom-BE?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/TEAM-ROMROM/RomRom-BE?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://suh-project.synology.me/romrom/"><b>Download APK</b></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Chuseok22/time-mate-web"><b>MeetTime Web</b></a></td>
