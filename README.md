@@ -1,7 +1,7 @@
 <!-- 헤더 배너 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,26,30&height=150&text=Chuseok22&animation=fadeIn&fontColor=F7F7F7&fontSize=45&fontAlignY=40)
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handlee&weight=500&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Baek+Jihoon;Java+%26+Spring+Boot+Backend+Developer" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Baek+Jihoon;Spring+Boot+%C3%97+Next.js+Developer;Love%F0%9F%92%95+Python+Utility+Projects" alt="Typing SVG" /></a>
 </div>
 
 <p align="center">
@@ -54,6 +54,7 @@
       <td><b>📚 Commits</b></td>
       <td><b>🛎 Issues</b></td>
       <td><b>📬 Pull requests</b></td>
+      <td><b>🧑‍💻 WebSite</b></td>
     </tr>
   </thead>
   <tbody>
@@ -63,6 +64,7 @@
       <td><img alt="Commits" src="https://img.shields.io/github/last-commit/Sejong-Balsamic/Malsami-BE?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Sejong-Balsamic/Malsami-BE?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Sejong-Balsamic/Malsami-BE?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://www.sejong-malsami.co.kr/"><b>WebSite</b></a></td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/Team-TicketMate"><b>Ticket Mate</b></a></td>
@@ -70,6 +72,7 @@
       <td><img alt="Commits" src="https://img.shields.io/github/last-commit/Team-TicketMate/ticketmate-server?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Team-TicketMate/ticketmate-server?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Team-TicketMate/ticketmate-server?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://www.ticketmate.site"><b>WebSite</b></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/TEAM-ROMROM"><b>RomRom</b></a></td>
@@ -77,6 +80,21 @@
       <td><img alt="Commits" src="https://img.shields.io/github/last-commit/TEAM-ROMROM/RomRom-BE?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/TEAM-ROMROM/RomRom-BE?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/TEAM-ROMROM/RomRom-BE?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Chuseok22/time-mate-web"><b>MeetTime Web</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Chuseok22/time-mate-web?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/last-commit/Chuseok22/time-mate-web?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Chuseok22/time-mate-web?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Chuseok22/time-mate-web?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://meet.chuseok22.com"><b>WebSite</b></a> & <a href="https://play.google.com/store/apps/details?id=com.meettime.app"><b>PlayStore</b></a> </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Chuseok22/time-mate-server"><b>MeetTime Server</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Chuseok22/time-mate-server?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/last-commit/Chuseok22/time-mate-server?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Chuseok22/time-mate-server?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Chuseok22/time-mate-server?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
