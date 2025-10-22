@@ -111,6 +111,7 @@
       <td><b>🎁 Projects</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Description</b></td>
+      <td><b>📈 Marketplace</b></td>
     </tr>
   </thead>
   <tbody>
@@ -118,8 +119,15 @@
       <td><a href="https://github.com/Chuseok22/github-issue-helper"><b>GitHub Issue Helper</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Chuseok22/github-issue-helper?style=flat-square&labelColor=343b41"/></td>
       <td>GitHub 브랜치명 & 커밋 메시지 자동 생성기</td>
+      <td><a href="https://github.com/marketplace/actions/chuseok22-issue-helper"><b>Link</b></a></td>
     </tr>
-	  <tr>
+    <tr>
+      <td><a href="https://github.com/Chuseok22/version-management"><b>Version Management</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Chuseok22/version-management?style=flat-square&labelColor=343b41"/></td>
+      <td>프로젝트 자동 버전 관리 워크플로우 (Spring Boot & Next.js)</td>
+      <td><a href="https://github.com/marketplace/actions/version-bump-compute-sync-changelog-tag?version=v1.0.0"><b>Link</b></a></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/Chuseok22/chuseok22-github-template"><b>GitHub Template</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Chuseok22/chuseok22-github-template?style=flat-square&labelColor=343b41"/></td>
       <td>GitHub 프로젝트 템플릿</td>
