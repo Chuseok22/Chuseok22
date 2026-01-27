@@ -1,7 +1,7 @@
 <!-- 헤더 배너 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,26,30&height=150&text=Chuseok22&animation=fadeIn&fontColor=F7F7F7&fontSize=45&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,26,30&height=150&text=Jihoon%20Baek&animation=fadeIn&fontColor=F7F7F7&fontSize=45&fontAlignY=40)
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Baek+Jihoon;Spring+Boot+%C3%97+Next.js+Developer;Love%F0%9F%92%95+Python+Utility+Projects" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Full-stack+Developer+%40+SejongUni;Spring+Boot(Java%2FKotlin)%E2%80%A2Next.js%26Ionic;Always+learning+%E2%80%94+everyone%E2%80%99s+welcome" alt="Typing SVG" /></a>
 </div>
 
 <p align="center">
@@ -11,6 +11,13 @@
   <img src="https://img.shields.io/badge/Contact-bjh59629@naver.com-blueviolet" />
 </p>
 
+---
+
+## 👋 About Me
+
+- **Full-stack developer** building **mobile-first apps** with **Ionic/Capacitor**, powered by **Spring Boot** and **Next.js**
+- Interested in **scalable backend systems**, **CI/CD automation**, and **clean architecture**
+- **Open to collaboration** — feel free to reach out
 
 ---
 
@@ -20,20 +27,35 @@
 
 <!-- shields.io 배지 (필요한 것만!!) -->
 
-### 🧑‍💻 Backend
+### 📖 Language
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### 🧑‍💻 Backend
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Pydantic](https://img.shields.io/badge/pydantic-%23E92063.svg?style=for-the-badge&logo=pydantic&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ### 📚 Frontend
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Database
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ###  DevOps
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -261,7 +283,7 @@ Kotlin                   2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chuseok22&show_icons=true&count_private=true&include_all_commits=true" alt="Chuseok22's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chuseok22&layout=compact&theme=buefy&hide_border=true" /> |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="https://streak-stats.demolab.com?user=Chuseok22" /> | <img src="https://github-profile-trophy.vercel.app/?username=Chuseok22&rank=-B,-C&column=3&margin-w=5&margin-h=5" />                              |
+| <img src="https://streak-stats.demolab.com/?user=Chuseok22" />                                                                                                                        | <img src="http://github-trophies.vercel.app/?username=Chuseok22&rank=-B,-C&column=3&margin-w=5&margin-h=5" />                              |
 
 <!-- 커밋 스트릭 -->
 

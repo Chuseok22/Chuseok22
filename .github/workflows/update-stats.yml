@@ -6,7 +6,7 @@ permissions:
 on:
   workflow_dispatch:
   schedule:
-    # 6시간마다 업데이트
+    # 매일 자정에 실행 (UTC)
     - cron: "0 0 * * *"
 
 jobs:
