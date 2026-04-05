@@ -147,6 +147,12 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/Chuseok22/capacitor-kakao-login"><b>Capacitor Kakao Native Login</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Chuseok22/capacitor-kakao-login?style=flat-square&labelColor=343b41"/></td>
+      <td>Capacitor 기반 카카오 소셜 로그인 npm</td>
+      <td><a href="https://www.npmjs.com/package/@chuseok22/capacitor-kakao-login"><b>Link</b></a></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/Chuseok22/github-issue-helper"><b>GitHub Issue Helper</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Chuseok22/github-issue-helper?style=flat-square&labelColor=343b41"/></td>
       <td>GitHub 브랜치명 & 커밋 메시지 자동 생성기</td>
