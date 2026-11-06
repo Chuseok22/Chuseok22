@@ -1,14 +1,20 @@
-<!-- 헤더 배너 -->
+<!-- Header banner -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,26,30&height=150&text=Jihoon%20Baek&animation=fadeIn&fontColor=F7F7F7&fontSize=45&fontAlignY=40)
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Full-stack+Developer+%40+SejongUni;Spring+Boot(Java%2FKotlin)%E2%80%A2Next.js%26Ionic;Always+learning+%E2%80%94+everyone%E2%80%99s+welcome" alt="Typing SVG" /></a>
 </div>
 
 <p align="center">
-  <!-- 방문자 카운터(옵션) -->
+  <!-- Profile views counter (optional) -->
   <img src="https://komarev.com/ghpvc/?username=Chuseok22&label=Profile%20views&style=flat" />
   <img src="https://img.shields.io/badge/MBTI-ISFJ-brightgreen" />
-  <img src="https://img.shields.io/badge/Contact-bjh59629@naver.com-blueviolet" />
+</p>
+
+<p align="center">
+  <a href="https://chuseok22.com"><img src="https://img.shields.io/badge/Website-chuseok22.com-black?style=flat" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/chuseok22/"><img src="https://img.shields.io/badge/LinkedIn-chuseok22-0A66C2?style=flat" alt="LinkedIn" /></a>
+  <a href="https://discord.com/invite/ncXEycT3Z9"><img src="https://img.shields.io/badge/Discord-Chuseok22%20Lab-5865F2?style=flat&logo=discord&logoColor=white" alt="Chuseok22 Lab on Discord" /></a>
+  <a href="mailto:bjh59629@naver.com"><img src="https://img.shields.io/badge/Contact-bjh59629@naver.com-blueviolet" alt="Email" /></a>
 </p>
 
 ---
@@ -17,7 +23,7 @@
 
 - **Full-stack developer** building **mobile-first apps** with **Ionic/Capacitor**, powered by **Spring Boot** and **Next.js**
 - Interested in **scalable backend systems**, **CI/CD automation**, and **clean architecture**
-- **Open to collaboration** — feel free to reach out
+- **Open to collaboration** — feel free to reach out, or drop by the [Chuseok22 Lab Discord](https://discord.com/invite/ncXEycT3Z9)
 
 ---
 
@@ -25,7 +31,7 @@
 
 ---
 
-<!-- shields.io 배지 (필요한 것만!!) -->
+<!-- shields.io badges (keep only what is needed) -->
 
 ### 📖 Language
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -66,137 +72,79 @@
 
 ---
 
-## 🚀 Recent Projects
+## 🚀 Featured Projects
 
-<!-- 카드형 핀 (정적 이미지 카드) -->
+Newest first. Projects without a repository link are in private repositories.
+
+| Project | What it is | Role · Period | Stack | Links |
+|---|---|---|---|---|
+| **TeeQ** | Real-time voice companion with AI personas: call a character like a real phone call, build a relationship over time, and share your location with someone you trust on a late walk home. | Backend · Sep 2026 – now | Spring Boot, Flutter | [GitHub](https://github.com/Team-WDA/teeq-monorepo) |
+| **WHO I'M** | Knowledge-succession service for companies: an AI interview turns a departing senior engineer's tacit judgment into evidence-linked handover cards. 🏆 Makeathon Grand Prize | Solo · Oct 2026 – now | Spring Boot, TypeScript | Private |
+| **Waitee** | Customer-facing hybrid mobile app and web client for the Waitee service, with a strong focus on accessibility (screen-reader support). | Frontend · Jan 2026 – now | Next.js, React, Capacitor | Private |
+| **Big Brother** | Sejong University capstone project: a multi-camera safety monitoring system with explainable alerts. | Backend · Oct 2026 – now | Spring Boot (Java 21) | Private |
+| **ELUM** | Mobile service that helps people with developmental disabilities carry out their daily routines on their own, using step-by-step picture cards. | With [Saechan Seo](https://github.com/Cassiiopeia) and [Yeram Lee](https://github.com/yeramyyi) · Jul 2026 – now | Flutter, Spring Boot | [GitHub](https://github.com/Twin-Fang/elum) · [App Store](https://apps.apple.com/kr/app/id6792970508) · [Google Play](https://play.google.com/store/apps/details?id=kr.twinfang.elum) |
+| **Hack the Beat: Party Passport** | Scan QR codes at a party, collect badges, and secretly match with the people you want to see again. Built in about three hours. 🏆 1st place | Team of four · Aug 29, 2026 | React, TypeScript, Spring Boot | [GitHub](https://github.com/Twin-Fang/Hack-the-Beat) · [Live demo](https://twin-fang.github.io/Hack-the-Beat/) |
+| **MU:DAM (무담)** | B2B design platform where generative AI trained on public cultural data turns Korean traditional patterns into product designs. 🏅 Encouragement Prize | Solo · Jun – Sep 2026 | Kotlin, Spring Boot, PostgreSQL | [Website](https://culture.chuseok22.com) |
+
+### Earlier Projects
+
+| Project | What it is | Role | Links |
+|---|---|---|---|
+| **Sejong Malsami (세종말싸미)** | Study-material sharing and Q&A platform for Sejong University students, with a points system. | Backend | [GitHub](https://github.com/Sejong-Balsamic) · [Website](https://www.sejong-malsami.co.kr/) |
+| **TicketMate** | Platform where skilled ticket buyers help others get concert and event tickets, built on trust-based matching and real-time chat. | Backend | [GitHub](https://github.com/Team-TicketMate) · [Website](https://www.ticketmate.site) |
+| **RomRom** | AI-powered secondhand trading platform with a card-game style UX. | Backend | [GitHub](https://github.com/TEAM-ROMROM) · [Download APK](https://suh-project.synology.me/romrom/) |
+
+---
+
+## 🏆 Awards
+
 <table>
-  <thead align="center">
-    <tr>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Commits</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-      <td><b>🧑‍💻 WebSite</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/Sejong-Balsamic"><b>Sejong Malsami</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Sejong-Balsamic/Malsami-BE?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/last-commit/Sejong-Balsamic/Malsami-BE?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Sejong-Balsamic/Malsami-BE?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Sejong-Balsamic/Malsami-BE?style=flat-square&labelColor=343b41"/></td>
-      <td><a href="https://www.sejong-malsami.co.kr/"><b>WebSite</b></a></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/Team-TicketMate"><b>Ticket Mate</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Team-TicketMate/ticketmate-server?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/last-commit/Team-TicketMate/ticketmate-server?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Team-TicketMate/ticketmate-server?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Team-TicketMate/ticketmate-server?style=flat-square&labelColor=343b41"/></td>
-      <td><a href="https://www.ticketmate.site"><b>WebSite</b></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/TEAM-ROMROM"><b>RomRom</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/TEAM-ROMROM/RomRom-BE?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/last-commit/TEAM-ROMROM/RomRom-BE?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/TEAM-ROMROM/RomRom-BE?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/TEAM-ROMROM/RomRom-BE?style=flat-square&labelColor=343b41"/></td>
-      <td><a href="https://suh-project.synology.me/romrom/"><b>Download APK</b></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Chuseok22/time-mate-web"><b>MeetTime Web</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Chuseok22/time-mate-web?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/last-commit/Chuseok22/time-mate-web?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Chuseok22/time-mate-web?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Chuseok22/time-mate-web?style=flat-square&labelColor=343b41"/></td>
-      <td><a href="https://meet.chuseok22.com"><b>WebSite</b></a> & <a href="https://play.google.com/store/apps/details?id=com.meettime.app"><b>PlayStore</b></a> </td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Chuseok22/time-mate-server"><b>MeetTime Server</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Chuseok22/time-mate-server?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/last-commit/Chuseok22/time-mate-server?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Chuseok22/time-mate-server?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Chuseok22/time-mate-server?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/CampusTable"><b>CampusTable</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/CampusTable/campus-table-fe?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/last-commit/CampusTable/campus-table-fe?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/CampusTable/campus-table-fe?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/CampusTable/campus-table-fe?style=flat-square&labelColor=343b41"/></td>
-      <td><a href="https://www.campustable.shop"><b>WebSite</b></a></td>
-    </tr>
-  </tbody>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <img src="./assets/awards/hack-the-beat-1st-place.jpg" alt="Our team of four holding the 1st place board at Hack the Beat" width="100%" /><br />
+      <b>🥇 1st Place</b><br />
+      <b>2026 I/O Extended: Hack the Beat</b><br />
+      <sub>Aug 29, 2026 · Party Passport · Team of four, built in about three hours</sub><br />
+      <sub><a href="https://github.com/Chuseok22">Jihoon Baek</a> · <a href="https://github.com/Cassiiopeia">Saechan Seo</a> · <a href="https://github.com/EM-H20">Euimin Hong</a> · <a href="https://github.com/yeramyyi">Yeram Lee</a></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <img src="./assets/awards/makeathon-grand-prize.jpg" alt="Grand Prize board from the makeathon, with the team name Chuseok-i" width="100%" /><br />
+      <b>🏆 Grand Prize</b><br />
+      <b>2026 Makeathon, College of AI Convergence, Sejong University</b><br />
+      <sub>Nov 4, 2026 · WHO I'M · Solo entry (team "추석이")</sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <img src="./assets/awards/mudam-encouragement-prize.jpg" alt="MU:DAM award announcement with AI-generated traditional-pattern product designs" width="100%" /><br />
+      <b>🏅 Encouragement Prize</b><br />
+      <b>4th Culture, Sports and Tourism AI &amp; Data Utilization Contest</b><br />
+      <sub>Cultural Data Best Practice category · MU:DAM · Hosted by the Korea Culture Information Service Agency</sub>
+    </td>
+  </tr>
 </table>
 
 ---
 
 ## 🚀 Utility Projects
 
-<!-- 카드형 핀 (정적 이미지 카드) -->
-<table>
-  <thead align="center">
-    <tr>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Description</b></td>
-      <td><b>📈 Marketplace</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/Chuseok22/capacitor-kakao-login"><b>Capacitor Kakao Native Login</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Chuseok22/capacitor-kakao-login?style=flat-square&labelColor=343b41"/></td>
-      <td>Capacitor 기반 카카오 소셜 로그인 npm</td>
-      <td><a href="https://www.npmjs.com/package/@chuseok22/capacitor-kakao-login"><b>Link</b></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Chuseok22/github-issue-helper"><b>GitHub Issue Helper</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Chuseok22/github-issue-helper?style=flat-square&labelColor=343b41"/></td>
-      <td>GitHub 브랜치명 & 커밋 메시지 자동 생성기</td>
-      <td><a href="https://github.com/marketplace/actions/chuseok22-issue-helper"><b>Link</b></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Chuseok22/version-management"><b>Version Management</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Chuseok22/version-management?style=flat-square&labelColor=343b41"/></td>
-      <td>프로젝트 자동 버전 관리 워크플로우 (Spring Boot & Next.js)</td>
-      <td><a href="https://github.com/marketplace/actions/version-bump-compute-sync-changelog-tag?version=v1.0.0"><b>Link</b></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Chuseok22/chuseok22-github-template"><b>GitHub Template</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Chuseok22/chuseok22-github-template?style=flat-square&labelColor=343b41"/></td>
-      <td>GitHub 프로젝트 템플릿</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Chuseok22/sejong-portal-login"><b>Sejong Uni. Login</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Chuseok22/sejong-portal-login?style=flat-square&labelColor=343b41"/></td>
-      <td>세종대학교 포탈 로그인</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Chuseok22/api-change-log"><b>Swagger Api Change Log</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Chuseok22/api-change-log?style=flat-square&labelColor=343b41"/></td>
-      <td>Swagger UI API 변경 이력 관리</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Chuseok22/pdf-extractor"><b>PDF Extractor</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Chuseok22/pdf-extractor?style=flat-square&labelColor=343b41"/></td>
-      <td>PDF 내부 데이터를 추출하여 Excel로 저장하는 애플리케이션</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Chuseok22/excel-parser"><b>Excel Parser</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Chuseok22/excel-parser?style=flat-square&labelColor=343b41"/></td>
-      <td>Excel 내부 데이터를 분류 후 별도의 엑셀 파일로 추출하는 애플리케이션</td>
-    </tr>
-  </tbody>
-</table>
+| Project | Stars | Description | Link |
+|---|---|---|---|
+| [**project-auto-wizard**](https://github.com/Twin-Fang/project-auto-wizard) | ![Stars](https://img.shields.io/github/stars/Twin-Fang/project-auto-wizard?style=flat-square&labelColor=343b41) | Open-source tool: one command sets up versioning, CHANGELOG, GitHub Releases and CI/CD in your repo. Built with [Saechan Seo](https://github.com/Cassiiopeia) and [Yeram Lee](https://github.com/yeramyyi) | [npm](https://www.npmjs.com/package/project-auto-wizard) |
+| [**Capacitor Kakao Native Login**](https://github.com/Chuseok22/capacitor-kakao-login) | ![Stars](https://img.shields.io/github/stars/Chuseok22/capacitor-kakao-login?style=flat-square&labelColor=343b41) | Capacitor plugin for native Kakao social login (npm) | [npm](https://www.npmjs.com/package/@chuseok22/capacitor-kakao-login) |
+| [**GitHub Issue Helper**](https://github.com/Chuseok22/github-issue-helper) | ![Stars](https://img.shields.io/github/stars/Chuseok22/github-issue-helper?style=flat-square&labelColor=343b41) | Generates GitHub branch names and commit messages automatically | [Marketplace](https://github.com/marketplace/actions/chuseok22-issue-helper) |
+| [**Version Management**](https://github.com/Chuseok22/version-management) | ![Stars](https://img.shields.io/github/stars/Chuseok22/version-management?style=flat-square&labelColor=343b41) | Automated versioning workflow for Spring Boot and Next.js projects | [Marketplace](https://github.com/marketplace/actions/version-bump-compute-sync-changelog-tag?version=v1.0.0) |
+| [**GitHub Template**](https://github.com/Chuseok22/chuseok22-github-template) | ![Stars](https://img.shields.io/github/stars/Chuseok22/chuseok22-github-template?style=flat-square&labelColor=343b41) | GitHub project template | — |
+| [**Sejong Uni. Login**](https://github.com/Chuseok22/sejong-portal-login) | ![Stars](https://img.shields.io/github/stars/Chuseok22/sejong-portal-login?style=flat-square&labelColor=343b41) | Sejong University portal login automation library | — |
+| [**Swagger Api Change Log**](https://github.com/Chuseok22/api-change-log) | ![Stars](https://img.shields.io/github/stars/Chuseok22/api-change-log?style=flat-square&labelColor=343b41) | Tracks API change history in Swagger UI | — |
+| [**PDF Extractor**](https://github.com/Chuseok22/pdf-extractor) | ![Stars](https://img.shields.io/github/stars/Chuseok22/pdf-extractor?style=flat-square&labelColor=343b41) | App that extracts data from PDFs and saves it to Excel | — |
+| [**Excel Parser**](https://github.com/Chuseok22/excel-parser) | ![Stars](https://img.shields.io/github/stars/Chuseok22/excel-parser?style=flat-square&labelColor=343b41) | App that classifies data inside Excel files and exports it to separate Excel files | — |
 
 ---
 
 ## ⌨️ Coding Status
 
-<!-- (동적) WakaTime 자동 갱신 자리에 삽입될 마커 -->
+<sub>The stats in this section are generated automatically by a workflow and are written in Korean.</sub>
+
+<!-- (dynamic) Marker where the WakaTime auto-update is inserted -->
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C490%20hrs%2022%20mins-blue?style=flat)
 
@@ -311,7 +259,7 @@ C                        2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 ## 📊 GitHub Status
 
-<!-- 기본 스탯 카드 -->
+<!-- Basic stats cards -->
 
 ![svg](./profile-3d-contrib/profile-green-animate.svg)
 
@@ -320,10 +268,10 @@ C                        2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | <img src="https://streak-stats.demolab.com/?user=Chuseok22" />                                                                                                                                    | <img src="https://github-trophies.vercel.app/?username=Chuseok22&rank=SECRET,SSS,SS,S,AAA,AA,A&column=5&margin-w=5&margin-h=5" />                             |
 
-<!-- 커밋 스트릭 -->
+<!-- Commit streak -->
 
-<!-- Contribution Graph -->
+<!-- Contribution graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chuseok22&theme=github-compact&days=40" alt="activity graph" width="95%"/>
 
-> *참고: 공개 저장소 기준이며, 모노레포/포크/생성된 파일이 비율에 영향을 줄 수 있습니다.*
+> *Note: Based on public repositories. Monorepos, forks, and generated files may skew the ratios.*
 
